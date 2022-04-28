@@ -20,4 +20,4 @@ Uçaklar çalışır veya onarım durumunda olabilir.
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
 ## UML Diyagramı
-![Referans bir isim](google.com/img.png)
+![photo](https://user-images.githubusercontent.com/58556840/165862773-42040485-1987-42b5-9806-14bb31f61ee9.png)
