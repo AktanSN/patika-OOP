@@ -15,4 +15,4 @@ Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
 ## UML Diyagramı
-![Referans bir isim](google.com/img.png)
+![photo](https://user-images.githubusercontent.com/58556840/165862774-9cece85d-78c7-4d09-b398-abea7363a5be.png)
