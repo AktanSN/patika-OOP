@@ -13,4 +13,4 @@ Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
 Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 
 ## UML Diyagramı
-![Referans bir isim](google.com/img.png)
+![photo](https://user-images.githubusercontent.com/58556840/165862770-0aeb33b1-fab2-47fc-a45c-9e79a1941b42.png)
