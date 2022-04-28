@@ -16,4 +16,4 @@ Simülatör, gerçek zaman geçişini simüle etmek ve simülasyonda meydana gel
 ````
 
 ## UML Diyagramı
-![Referans bir isim](google.com/img.png)
+![photo](https://user-images.githubusercontent.com/58556840/165862767-29924a26-416f-40c4-aaa6-6f82cdaefa3f.png)
