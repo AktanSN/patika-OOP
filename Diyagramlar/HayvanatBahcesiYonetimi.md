@@ -22,4 +22,4 @@ Sistemin bu işlevleri yerine getirme mantığı, her gruplama için farklı ola
 Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bir sınıf diyagramı tasarlayın.
 
 ## UML Diyagramı
-![Referans bir isim](google.com/img.png)
+![photo](https://user-images.githubusercontent.com/58556840/165862771-82e2ce07-f8f0-44eb-b0b9-3a89e2bfaf88.png)
